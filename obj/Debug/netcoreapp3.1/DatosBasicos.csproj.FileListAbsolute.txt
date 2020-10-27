@@ -1,0 +1,13 @@
+C:\Users\Elith\OneDrive\Desktop\DatosBasicos\obj\Debug\netcoreapp3.1\DatosBasicos.csprojAssemblyReference.cache
+C:\Users\Elith\OneDrive\Desktop\DatosBasicos\obj\Debug\netcoreapp3.1\DatosBasicos.AssemblyInfoInputs.cache
+C:\Users\Elith\OneDrive\Desktop\DatosBasicos\obj\Debug\netcoreapp3.1\DatosBasicos.AssemblyInfo.cs
+C:\Users\Elith\OneDrive\Desktop\DatosBasicos\obj\Debug\netcoreapp3.1\DatosBasicos.csproj.CoreCompileInputs.cache
+C:\Users\Elith\OneDrive\Desktop\DatosBasicos\bin\Debug\netcoreapp3.1\DatosBasicos.exe
+C:\Users\Elith\OneDrive\Desktop\DatosBasicos\bin\Debug\netcoreapp3.1\DatosBasicos.deps.json
+C:\Users\Elith\OneDrive\Desktop\DatosBasicos\bin\Debug\netcoreapp3.1\DatosBasicos.runtimeconfig.json
+C:\Users\Elith\OneDrive\Desktop\DatosBasicos\bin\Debug\netcoreapp3.1\DatosBasicos.runtimeconfig.dev.json
+C:\Users\Elith\OneDrive\Desktop\DatosBasicos\bin\Debug\netcoreapp3.1\DatosBasicos.dll
+C:\Users\Elith\OneDrive\Desktop\DatosBasicos\bin\Debug\netcoreapp3.1\DatosBasicos.pdb
+C:\Users\Elith\OneDrive\Desktop\DatosBasicos\obj\Debug\netcoreapp3.1\DatosBasicos.dll
+C:\Users\Elith\OneDrive\Desktop\DatosBasicos\obj\Debug\netcoreapp3.1\DatosBasicos.pdb
+C:\Users\Elith\OneDrive\Desktop\DatosBasicos\obj\Debug\netcoreapp3.1\DatosBasicos.genruntimeconfig.cache
