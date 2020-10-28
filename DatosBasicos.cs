@@ -70,23 +70,7 @@ radio = double.Parse(Console.ReadLine());
 double resultado = radio * 3.14; 
 Console.WriteLine(resultado);
 */
-//7)
-/*
-double distancia,tiempo,metro,milla,kilometro,result_Milla,result_kilometro;
-Console.WriteLine("Ingrese distancia(en metro): ");
-metro = double.Parse(Console.ReadLine());
-//Console.WriteLine("Ingrese el tiempo para recorrerla: ");
-//tiempo = double.Parse(Console.ReadLine());
 
-
-
-milla = 1609; kilometro = 1000;
-result_Milla = metro / milla;
-result_kilometro = metro / kilometro;
-Console.WriteLine(" {0} milla por hora {1}  ",result_Milla);
-Console.WriteLine(" En kilometros por hora {0} ",result_kilometro);
-
-*/
 
         }
     }
